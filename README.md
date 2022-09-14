@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @arad1010
+- 👀 I’m interested in python
+- 🌱 I’m currently learning hacking
